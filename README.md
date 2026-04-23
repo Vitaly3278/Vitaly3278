@@ -28,3 +28,5 @@ Python-разработчик. Делаю практичные AI/Backend-про
 ## Контакты
 
 - GitHub: [@Vitaly3278](https://github.com/Vitaly3278)
+- Telegram: [@Vital032](https://t.me/Vital032)
+- Email: [vital-nvl@mail.ru](mailto:vital-nvl@mail.ru)
