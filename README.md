@@ -14,8 +14,12 @@ Python-разработчик. Делаю практичные AI/Backend-про
 
 ## Избранные проекты
 
+<<<<<<< HEAD
 - [Description-generator](https://github.com/Vitaly3278/Description-generator) — генерация описаний
 - [hh_parser](https://github.com/Vitaly3278/hh_parser) — парсинг и обработка вакансий hh.ru
+=======
+- [FastApi-CV](https://github.com/Vitaly3278/FastApi-CV) — API-проект для работы с CV/резюме
+>>>>>>> 19c9b66 (Add FastApi-CV to featured profile projects.)
 - [RAG](https://github.com/Vitaly3278/RAG) — RAG-сервис с self-correction, оценкой и мониторингом
 - [RAG_search](https://github.com/Vitaly3278/RAG_search) — семантический поиск по векторной базе
 
