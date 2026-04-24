@@ -11,7 +11,7 @@ Python-разработчик. Делаю практичные AI/Backend-про
 
 ## Технологии
 
-`Python` `FastAPI` `PostgeSQL` `Pydantic` `Docker` `LangGraph` `Qdrant` `Ollama` `CV``Codex` `QWEN`
+`Python` `FastAPI` `PostgeSQL` `Pydantic` `Docker` `LangGraph` `Qdrant` `Ollama` `CV` `Codex` `QWEN`
 
 ## Избранные проекты
 
