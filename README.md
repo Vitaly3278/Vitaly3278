@@ -21,7 +21,7 @@ Python-разработчик. Делаю практичные AI/Backend-про
 - [RAG](https://github.com/Vitaly3278/RAG) — RAG-сервис с self-correction, оценкой и мониторингом
 - [RAG_search](https://github.com/Vitaly3278/RAG_search) — семантический поиск по векторной базе
 
-# Сейчас в фокусе
+## Сейчас в фокусе
 - Архитектура и разработка FastAPI-сервисов (чистая структура, слои, масштабируемость)
 - Производительность и надежность API: валидация, обработка ошибок, health checks, graceful shutdown
 - Интеграция FastAPI с AI/RAG-компонентами (LangGraph, Qdrant, Ollama) для прикладных сценариев
