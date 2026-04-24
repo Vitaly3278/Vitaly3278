@@ -1,23 +1,24 @@
 # Привет, я Виталий 👋
 
-Python-разработчик. Делаю практичные AI/Backend-проекты: RAG-системы, API-сервисы и автоматизацию.
+Python-разработчик. Делаю практичные AI/Backend-проекты, API-сервисы и автоматизацию.
 
 ## Чем занимаюсь
 
-- Разрабатываю RAG-пайплайны (LangGraph + Qdrant + Ollama)
-- Собираю production-ready API на FastAPI
-- Настраиваю оценку качества (RAGAS) и мониторинг (Prometheus/Grafana)
+- Собираю проекты API на FastAPI
+- Экспериментирую с RAG (LangGraph + Qdrant + Ollama)
+- Боты, парсинг
 
 ## Технологии
 
-`Python` `FastAPI` `LangGraph` `Qdrant` `Ollama` `Docker` `Prometheus` `Grafana`
+`Python` `FastAPI` `PostgeSQL` `Pydantic` `Docker` `LangGraph` `Qdrant` `Ollama` `Codex` `QWEN`
 
 ## Избранные проекты
 
+- [Description-generator](https://github.com/Vitaly3278/Description-generator) — генерация описаний
+- [hh_parser](https://github.com/Vitaly3278/hh_parser) — парсинг и обработка вакансий hh.ru
 - [RAG](https://github.com/Vitaly3278/RAG) — RAG-сервис с self-correction, оценкой и мониторингом
 - [RAG_search](https://github.com/Vitaly3278/RAG_search) — семантический поиск по векторной базе
-- [hh_parser](https://github.com/Vitaly3278/hh_parser) — парсинг и обработка вакансий hh.ru
-- [Description-generator](https://github.com/Vitaly3278/Description-generator) — генерация описаний
+
 
 ## Сейчас в фокусе
 
