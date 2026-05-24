@@ -10,7 +10,7 @@ Python Backend / AI-разработчик. Делаю API на FastAPI, RAG-с�
 ## Чем занимаюсь
 
 - Разрабатываю REST API и веб-сервисы на **FastAPI**
-- Собираю **RAG**-контуры (LangGraph, Qdrant, Ollama) и интегрирую LLM в продукты
+- Экспериментирую с RAG-контурами (LangGraph, Qdrant, Ollama) и интегрирую LLM в продукты
 - Автоматизирую процессы: парсинг, боты, дашборды для команд
 
 ## Технологии
@@ -20,7 +20,7 @@ Python Backend / AI-разработчик. Делаю API на FastAPI, RAG-с�
 ## Избранные проекты
 
 - [ai-team-dashboard](https://github.com/Vitaly3278/ai-team-dashboard) — командный дашборд: вопросы к LLM, история запросов, пресеты и метрики (**FastAPI**, Vanilla JS)
-- [RAG](https://github.com/Vitaly3278/RAG) — RAG-сервис с self-correction, API, мониторингом и offline-оценкой (**LangGraph**, Qdrant, Ollama, FastAPI)
+- [RAG](https://github.com/Vitaly3278/RAG) — RAG-сервис с self-correction, API, мониторингом и offline-оценкой (LangGraph, Qdrant, Ollama, FastAPI)
 - [RAG_search](https://github.com/Vitaly3278/RAG_search) — семантический поиск по векторной базе знаний
 - [Description-generator](https://github.com/Vitaly3278/Description-generator) — генерация продающих описаний товаров по фото (**FastAPI**, React, LLM)
 - [hh_parser](https://github.com/Vitaly3278/hh_parser) — парсинг и аналитика вакансий hh.ru, веб-интерфейс и Telegram-бот (**Flask**, SQLite)
@@ -29,8 +29,7 @@ Python Backend / AI-разработчик. Делаю API на FastAPI, RAG-с�
 ## Сейчас в фокусе
 
 - Архитектура FastAPI-сервисов: слои, валидация, health checks
-- Качество RAG: retrieval, self-correction, наблюдаемость
-- UX дашбордов и надёжный деплой (Docker, reverse proxy)
+- LLM в продуктах: промпты, OpenRouter/DeepSeek, стабильные ответы и обработка ошибок API
 
 ## Открыт к
 
@@ -44,6 +43,4 @@ Python Backend / AI-разработчик. Делаю API на FastAPI, RAG-с�
 - Telegram: [@Vital032](https://t.me/Vital032)
 - Email: [vital-nvl@mail.ru](mailto:vital-nvl@mail.ru)
 
----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitaly3278&show_icons=true&theme=default&hide_border=true)
