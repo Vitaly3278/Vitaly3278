@@ -15,6 +15,7 @@ Python-разработчик. Делаю практичные AI/Backend-про
 
 ## Избранные проекты
 
+- [ai-team-dashboard](https://github.com/Vitaly3278/ai-team-dashboard) — дашборд для команды: вопросы к LLM, история запросов, пресеты и метрики (FastAPI + Vanilla JS)
 - [Description-generator](https://github.com/Vitaly3278/Description-generator) — генерация описаний
 - [hh_parser](https://github.com/Vitaly3278/hh_parser) — парсинг и обработка вакансий hh.ru
 - [FastApi-CV](https://github.com/Vitaly3278/FastApi-CV) — API-проект для работы с CV/резюме
