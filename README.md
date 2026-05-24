@@ -1,35 +1,41 @@
 # Привет, я Виталий 👋
 
-Python-разработчик. Делаю практичные AI/Backend-проекты, API-сервисы и автоматизацию.
+Python Backend / AI-разработчик. Делаю API на FastAPI, RAG-сервисы, автоматизацию и дашборды с LLM.
+
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## Чем занимаюсь
 
-- Собираю проекты API на FastAPI
-- Автоматизирую рутинные процессы через Python-скрипты и ботов
-- Экспериментирую с RAG (LangGraph + Qdrant + Ollama)
-
+- Разрабатываю REST API и веб-сервисы на **FastAPI**
+- Собираю **RAG**-контуры (LangGraph, Qdrant, Ollama) и интегрирую LLM в продукты
+- Автоматизирую процессы: парсинг, боты, дашборды для команд
 
 ## Технологии
 
-`Python` `FastAPI` `PostgeSQL` `Pydantic` `Docker` `LangGraph` `Qdrant` `Ollama` `CV` `Codex` `QWEN`
+`Python` `FastAPI` `Flask` `PostgreSQL` `Pydantic` `Docker` `LangGraph` `Qdrant` `Ollama` `OpenCV` `React` `Vanilla JS`
 
 ## Избранные проекты
 
-- [ai-team-dashboard](https://github.com/Vitaly3278/ai-team-dashboard) — дашборд для команды: вопросы к LLM, история запросов, пресеты и метрики (FastAPI + Vanilla JS)
-- [Description-generator](https://github.com/Vitaly3278/Description-generator) — генерация описаний
-- [hh_parser](https://github.com/Vitaly3278/hh_parser) — парсинг и обработка вакансий hh.ru
-- [FastApi-CV](https://github.com/Vitaly3278/FastApi-CV) — API-проект для работы с CV/резюме
-- [RAG](https://github.com/Vitaly3278/RAG) — RAG-сервис с self-correction, оценкой и мониторингом
-- [RAG_search](https://github.com/Vitaly3278/RAG_search) — семантический поиск по векторной базе
+- [ai-team-dashboard](https://github.com/Vitaly3278/ai-team-dashboard) — командный дашборд: вопросы к LLM, история запросов, пресеты и метрики (**FastAPI**, Vanilla JS)
+- [RAG](https://github.com/Vitaly3278/RAG) — RAG-сервис с self-correction, API, мониторингом и offline-оценкой (**LangGraph**, Qdrant, Ollama, FastAPI)
+- [RAG_search](https://github.com/Vitaly3278/RAG_search) — семантический поиск по векторной базе знаний
+- [Description-generator](https://github.com/Vitaly3278/Description-generator) — генерация продающих описаний товаров по фото (**FastAPI**, React, LLM)
+- [hh_parser](https://github.com/Vitaly3278/hh_parser) — парсинг и аналитика вакансий hh.ru, веб-интерфейс и Telegram-бот (**Flask**, SQLite)
+- [FastApi-CV](https://github.com/Vitaly3278/FastApi-CV) — видеопоток с веб-камеры: детекция лиц, фильтры, WebSocket (**FastAPI**, OpenCV)
 
 ## Сейчас в фокусе
-- Архитектура и разработка FastAPI-сервисов (чистая структура, слои, масштабируемость)
-- Производительность и надежность API: валидация, обработка ошибок, health checks, graceful shutdown
-- Интеграция FastAPI с AI/RAG-компонентами (LangGraph, Qdrant, Ollama) для прикладных сценариев
+
+- Архитектура FastAPI-сервисов: слои, валидация, health checks
+- Качество RAG: retrieval, self-correction, наблюдаемость
+- UX дашбордов и надёжный деплой (Docker, reverse proxy)
 
 ## Открыт к
-- Backend/Python задачам
-- AI/RAG проектам
+
+- Backend / Python-задачам (удалённо, проекты и full-time)
+- AI / RAG-проектам и интеграции LLM в продукт
 - Техническому сотрудничеству и фрилансу
 
 ## Контакты
@@ -37,3 +43,7 @@ Python-разработчик. Делаю практичные AI/Backend-про
 - GitHub: [@Vitaly3278](https://github.com/Vitaly3278)
 - Telegram: [@Vital032](https://t.me/Vital032)
 - Email: [vital-nvl@mail.ru](mailto:vital-nvl@mail.ru)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitaly3278&show_icons=true&theme=default&hide_border=true)
